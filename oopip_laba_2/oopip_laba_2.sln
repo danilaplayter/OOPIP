@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "oopip_laba_2", "oopip_laba_2\oopip_laba_2.vcxproj", "{7E219148-7BD3-4635-81F8-34F57D2D247D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E219148-7BD3-4635-81F8-34F57D2D247D}.Debug|x64.ActiveCfg = Debug|x64
+		{7E219148-7BD3-4635-81F8-34F57D2D247D}.Debug|x64.Build.0 = Debug|x64
+		{7E219148-7BD3-4635-81F8-34F57D2D247D}.Debug|x86.ActiveCfg = Debug|Win32
+		{7E219148-7BD3-4635-81F8-34F57D2D247D}.Debug|x86.Build.0 = Debug|Win32
+		{7E219148-7BD3-4635-81F8-34F57D2D247D}.Release|x64.ActiveCfg = Release|x64
+		{7E219148-7BD3-4635-81F8-34F57D2D247D}.Release|x64.Build.0 = Release|x64
+		{7E219148-7BD3-4635-81F8-34F57D2D247D}.Release|x86.ActiveCfg = Release|Win32
+		{7E219148-7BD3-4635-81F8-34F57D2D247D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {046CE536-30E9-4649-A040-53F2DBC3638F}
+	EndGlobalSection
+EndGlobal
